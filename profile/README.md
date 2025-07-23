@@ -28,8 +28,6 @@ Source/
     │   ├── Storage/                          # Lưu trữ dữ liệu tạm/thường
     │   └── Logger/                           # Ghi log và trace hệ thống
     │
-    ├── Repository/                           # Truy cập dữ liệu/DB layer
-    │
     ├── Domain/
     │   ├── Entities/                         # Các entity cốt lõi của domain
     │   ├── Constants/                        # Hằng số dùng chung
