@@ -1,12 +1,29 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+.
+└── Source/
+    ├── GameClient/
+    │   └── Bootstrap/
+    │       └── AddDependenciesInjection.cs   # Add all denpendency
+    ├── Adapter/
+    │   ├── Signals/ 
+    │   │   └── <ServiceName>/
+    │   │       ├── ReqModel.cs # _signalBus.Fire(Mapper.map<ReqDto>(ReqModel))
+    │   │       └── ResModel.cs # Mapper.map<ResModel>(reqDto)
+    │   ├── Mapper/
+    │   └── SignalsRegister.cs
+    └── Application/
+        ├── Service/
+        │   └── <ServiceName>/
+        │       ├── ReqModel
+        │       ├── ResModel
+        │       └── <ServiceName>.cs # Include 1 interface 1 class impl interface
+        ├── External/
+        │   ├── API
+        │   ├── Storage
+        │   └── Logger
+        ├── Repository/
+        ├── Domain/
+        │   ├── Entities
+        │   ├── Constants
+        │   ├── Messages
+        │   └── Enums
+        └── UnitTest/
