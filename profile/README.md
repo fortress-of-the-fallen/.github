@@ -167,4 +167,5 @@ Mỗi **chủng tộc** sẽ có:
 
     - Có thể ra lệnh sơ đồ chiến thuật (AI Pattern), nhưng vẫn giữ sự ngẫu nhiên để tạo cảm giác “sống thật”.
 
-https://fortress-of-the-fallen.github.io/.github/erd/
+## ERD
+[`Link`](https://fortress-of-the-fallen.github.io/.github/erd/)
