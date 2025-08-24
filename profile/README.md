@@ -51,7 +51,7 @@ Người chơi bắt đầu chỉ với một hòn đảo trống rỗng – nh�
 
     - Người chơi chết không "respawn ngay".
 
-    - Dựa vào Charisma → xác định tầng ngục bị đẩy xuống.
+    - Dựa vào Karma → xác định tầng ngục bị đẩy xuống.
 
     - Muốn hồi sinh → phải vượt qua thử thách trong ngục.
 
