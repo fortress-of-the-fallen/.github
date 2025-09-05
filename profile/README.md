@@ -169,3 +169,5 @@ Mỗi **chủng tộc** sẽ có:
 
 ## ERD
 [`Link`](https://fortress-of-the-fallen.github.io/.github/erd/)
+
+### XEM CHI TIẾT TẠI ĐÂY [`Link`](https://github.com/fortress-of-the-fallen/FotF-GDD)
